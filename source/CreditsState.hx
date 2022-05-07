@@ -87,7 +87,7 @@ class CreditsState extends MusicBeatState
 			['FNF Hiro mod Team'],
 			['HIRO NOT HILO',			'hilo',				'EVERYTHING of Hiro mod',												'https://www.youtube.com/channel/UC73PBwTkGsDXwMVSLf77Sww/featured',		'9999FF'],
 			['Astrogod',				'astrogod',			'V-TUBER CHANNEL\n(he hate rick roll so much lol)',						'https://www.youtube.com/channel/UCBhGjgzrrbL8V4zmYhH53hA',					'CC3366'],
-			['apro716',					'apro',				'cool',																	'https://www.youtube.com/watch?v=a3Z7zEc7AXQ',								'66FFFF'],
+			['apro716',					'apro',				'cool \n make Engine even more better!',																	'https://www.youtube.com/channel/UCP58EIdwvED4mQd_AK-hoMQ',								'66FFFF'],
 			['Soji Rikuta',				'yuu',				'play tester\ncool youtuber lol',										'https://www.youtube.com/channel/UCWzBFdgN59Nnziwpb8hhX8g/featured',		'66FFFF'],
 			[''],
 			['Special Thanks!'],
