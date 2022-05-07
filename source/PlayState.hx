@@ -66,10 +66,10 @@ class PlayState extends MusicBeatState
 
 	public static var ratingStuff:Array<Dynamic> = [
         ['No Singing?', 0.0001], //Cyka Blyat
-        ['Eww... You Suck!!!', 0.1], //From 0.001% to 9%
-        ['Very Noob!', 0.2], //From 10% to 19%
-        ['Ugh! >:(', 0.3], //From 20% to 29%
-        ['Damn... >:/', 0.4], //From 30% to 39%
+        ['You Fucked Up!!! .l.', 0.1], //From 0.001% to 9%
+        ['Dog Shit!! >:(', 0.2], //From 10% to 19%
+        ['Ugh! >:/', 0.3], //From 20% to 29%
+        ['Damn... :/', 0.4], //From 30% to 39%
         ['Bad :(', 0.5], //From 40% to 49%
         ['D', 0.6], //From 50% to 59%
 	['D+', 0.633333], //From 60% to 63.33%	
