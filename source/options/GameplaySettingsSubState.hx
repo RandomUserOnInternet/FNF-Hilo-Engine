@@ -134,7 +134,7 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 		addOption(option);
 
 		var option:Option = new Option('Epic! Hit Window', //ไอโง่อยู่ตรงนี้ cum here tofix ms
-			'Changes the amount of time you have\nfor hitting a "Epic" in milliseconds.',
+			'Changes the amount of time you have\nfor hitting a "Epic!" in milliseconds.',
 			'epicWindow',
 			'int',
 			30);
