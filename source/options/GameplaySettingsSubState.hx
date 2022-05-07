@@ -137,7 +137,7 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			'Changes the amount of time you have\nfor hitting a "Epic!" in milliseconds.',
 			'epicWindow',
 			'int',
-			30);
+			25);
 		option.displayFormat = '%vms';
 		option.scrollSpeed = 15;
 		option.minValue = 10;
@@ -148,7 +148,7 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			'Changes the amount of time you have\nfor hitting a "Sick!" in miliseconds.',
 			'sickWindow',
 			'int',
-			55);
+			45);
 		option.displayFormat = '%vms';
 		option.scrollSpeed = 15;
 		option.minValue = 15;
@@ -159,7 +159,7 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			'Changes the amount of time you have\nfor hitting a "Good" in miliseconds.',
 			'goodWindow',
 			'int',
-			100);
+			90);
 		option.displayFormat = '%vms';
 		option.scrollSpeed = 30;
 		option.minValue = 15;
@@ -170,7 +170,7 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			'Changes the amount of time you have\nfor hitting a "Bad" in miliseconds.',
 			'badWindow',
 			'int',
-			144);
+			135);
 		option.displayFormat = '%vms';
 		option.scrollSpeed = 60;
 		option.minValue = 15;
