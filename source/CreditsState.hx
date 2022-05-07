@@ -101,7 +101,7 @@ class CreditsState extends MusicBeatState
 			['Project fnf 2',			'bb-panzu',			'cool transition',														'https://github.com/l1ttleO/ProjectFNF',									'389A58'],
 			['FNF grafex engine',		'shadowmario',		'camera zoom in freeplay state',										'https://github.com/XaleTheCat/fnf-grafex',									'389A58'],
 			['psych engine 0.5.2',		'shadowmario',		'hit sound  and  credit state',											'https://github.com/ShadowMario/FNF-PsychEngine',							'389A58'],
-			[''],*/
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',											'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',										'https://twitter.com/river_oaken',		'C30085'],
