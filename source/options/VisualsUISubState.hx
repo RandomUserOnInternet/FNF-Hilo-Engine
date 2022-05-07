@@ -52,7 +52,7 @@ class VisualsUISubState extends BaseOptionsMenu
 			'Combo color yeah cool color',
 			'combocolor',
 			'bool',
-			false);
+			true);
 		addOption(option);
 		
 		var option:Option = new Option('Time Bar:',
