@@ -778,7 +778,7 @@ class EditorPlayState extends MusicBeatState
 		//
 
 		var rating:FlxSprite = new FlxSprite();
-		//var score:Int = 350;
+		//var score:Int = 500;
 
 		var daRating:String = "epic";
 
@@ -800,7 +800,7 @@ class EditorPlayState extends MusicBeatState
 		else if (noteDiff > Conductor.safeZoneOffset * 0.15)
 		{
 			daRating = 'sick';
-			//score = 200;
+			//score = 350;
 		}
 		if(daRating == 'epic' && !note.noteSplashDisabled)
 		{
