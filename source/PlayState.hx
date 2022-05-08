@@ -1106,7 +1106,7 @@ class PlayState extends MusicBeatState
 		judgementCounter.scrollFactor.set();
 		judgementCounter.cameras = [camHUD];
 		judgementCounter.screenCenter(Y);
-		judgementCounter.text = 'Highest Combo: ${highestCombo}\nEpics: ${epics}\nSicks: ${sicks}\nGoods: ${goods}\nBads: ${bads}\nShits: ${shits}\nMisses: ${songMisses}';
+		judgementCounter.text = 'Highest Combo: ${highestCombo}\nEpics: ${epics}\nSicks: ${sicks}\nGoods: ${goods}\nBads: ${bads}\nShits: ${shits}\nMisses: ${songMisses}\nCombo Breaks: ${songMisses}';
 		// add(judgementCounter);
 		if(ClientPrefs.judgementcounter && !cpuControlled && !ClientPrefs.hideHud){
 			add(judgementCounter);
@@ -4978,7 +4978,7 @@ class PlayState extends MusicBeatState
 		setOnLuas('rating', ratingPercent);
 		setOnLuas('ratingName', ratingName);
 		setOnLuas('ratingFC', ratingFC);
-		judgementCounter.text = 'Highest Combo: ${highestCombo}\nEpics: ${epics}\nSicks: ${sicks}\nGoods: ${goods}\nBads: ${bads}\nShits: ${shits}\nMisses: ${songMisses}'; //https://github.com/ShadowMario/FNF-PsychEngine/discussions/3707
+		judgementCounter.text = 'Highest Combo: ${highestCombo}\nEpics: ${epics}\nSicks: ${sicks}\nGoods: ${goods}\nBads: ${bads}\nShits: ${shits}\nMisses: ${songMisses}\nCombo Breaks: ${songMisses}'; //https://github.com/ShadowMario/FNF-PsychEngine/discussions/3707
 	}
 
 	#if ACHIEVEMENTS_ALLOWED
