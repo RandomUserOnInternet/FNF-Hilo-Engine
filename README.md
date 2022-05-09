@@ -5,4 +5,6 @@ watch Hilo Engine (Hiro mod) gameplay [Here!](https://youtu.be/xUtoRWzfZII)
 
 download here! : https://gamebanana.com/mods/372068
 
+**For mac and Linux user download [HERE!](https://github.com/APRO716/FNF-vs-Hiro-mod-demo-Hilo-Engine/actions/workflows/main.yml)
+
 CHECK OUT Andromeda Engine NOW! https://github.com/nebulazorua/andromeda-engine
