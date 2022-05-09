@@ -253,7 +253,7 @@ class MainMenuState extends MusicBeatState
 								switch (daChoice)
 								{
 									case 'story_mode':
-										LoadingState.loadAndSwitchState(new StorynotreadyState());
+										LoadingState.loadAndSwitchState(new StoryMenuState());
 									case 'freeplay':
 										LoadingState.loadAndSwitchState(new FreeplayState());
 									#if MODS_ALLOWED
