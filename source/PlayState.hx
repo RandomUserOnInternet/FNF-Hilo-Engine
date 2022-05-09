@@ -84,7 +84,7 @@ class PlayState extends MusicBeatState
         ['A+', 0.9], //From 86.67%-89.99%
         ['S-', 0.93], //From 90% to 92%
         ['S', 0.95], //From 93% to 94%
-        ['S+', 0.98], //From 95% to 96%
+        ['S+', 0.97], //From 95% to 96%
         ['S++', 0.99], //From 97% to 98%
         ['SS', 0.995], //From 99%-99.49%
         ['SS+', 0.999], //From 99.5%-99.89%
