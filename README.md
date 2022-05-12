@@ -12,7 +12,7 @@ Play in Website! : https://apro716.github.io/FNF-Hilo-Engine-HTML5-Version/
 CHECK OUT Andromeda Engine NOW! https://github.com/nebulazorua/andromeda-engine
 
 How to build?
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 Follow this instruction https://github.com/ninjamuffin99/Funkin
 
 then install LuaJIT 
