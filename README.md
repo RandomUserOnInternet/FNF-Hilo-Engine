@@ -4,7 +4,7 @@ Feature of Hilo Engine :D
 * Based on Psych Engine 0.5.1 (we add 0.5.2h and more cool feature too! :D)
 * Psych Engine Feature
 * New Scoring System (Based on millisecond)
-* Cool combo color , Epic Rank & Judgement Counter (credit to Andromeda Engine CHECK OUT NOW!!! https://github.com/nebulazorua/androm...)
+* Cool combo color , Epic Rank & Judgement Counter (credit to Andromeda Engine CHECK OUT NOW!!! https://github.com/nebulazorua/andromeda-engine)
 * New Better Letter Ranking (X S+ S A B C etc.)
 * Green font color Options menu
 * New Pause menu
