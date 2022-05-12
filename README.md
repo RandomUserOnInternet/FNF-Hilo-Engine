@@ -32,9 +32,9 @@ How to build?
 * then install LuaJIT 
  `haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit`
 
-**Could not find visual studio 2017 vsdevcmd?
+Could not find visual studio 2017 vsdevcmd?
 install this! :) (Technically You can use Latest Version of Visual Studio 2022 or 2019)
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 * MSVC v142 - VS 2019 C++ x64/x86 build tools
 
 * Windows SDK (10.0.17763.0)
