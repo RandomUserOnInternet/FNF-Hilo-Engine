@@ -6,8 +6,8 @@ Feature of Hilo Engine :D
 * New Scoring System Based on millisecond Like 69696 instead of 69420
 * Choosable Accuracy Mode (Hiro mod (???),Apro Engine(osu!mania),Complex (Kade Engine),Vanilla (Psych Engine),Simple (When you hit any note you will get 100%)
 * Cool combo color , Epic Rank & Judgement Counter (credit to Andromeda Engine CHECK OUT NOW!!! https://github.com/nebulazorua/andromeda-engine)
-* New Better Letter Ranking (X S+ S A B C etc.)
 * Better Combo Popup Show exact number (example: show 69 instead of 069)
+* New Better Letter Ranking (X S+ S A B C etc.)
 * Memory peak at top left screen
 * Green font color Options menu
 * New Pause menu
