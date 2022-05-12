@@ -16,6 +16,7 @@ Feature of Hilo Engine :D
 **Upcoming Feature**
 * Result Screen like Kade Engine
 * Show "Combo" Picture like FNF Week 8 Leak
+* Hide Background & Hide Character Everything is Black
 * Our Own Design Logo of Engine (This count?)
 * IDK
 
@@ -33,7 +34,7 @@ Hehe
 
 How to build?
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-* Follow this instruction https://github.com/ninjamuffin99/Funkin#build-instructions
+* As same as Psych Engine Follow this instruction https://github.com/ninjamuffin99/Funkin#build-instructions
 
 * then install LuaJIT 
  `haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit`
