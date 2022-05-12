@@ -13,7 +13,7 @@
 
 How to build?
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-Follow this instruction https://github.com/ninjamuffin99/Funkin
+* Follow this instruction https://github.com/ninjamuffin99/Funkin
 
-then install LuaJIT 
-`haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit`
+* then install LuaJIT 
+ `haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit`
