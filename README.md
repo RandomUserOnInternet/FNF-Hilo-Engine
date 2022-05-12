@@ -6,11 +6,13 @@ Feature of Hilo Engine :D
 * New Scoring System (Based on millisecond)
 * Cool combo color , Epic Rank & Judgement Counter (credit to Andromeda Engine CHECK OUT NOW!!! https://github.com/nebulazorua/andromeda-engine)
 * New Better Letter Ranking (X S+ S A B C etc.)
+* Memory peak at top left screen
 * Green font color Options menu
 * New Pause menu
 
 **Upcoming Feature**
 * Result Screen like Kade Engine
+* Our Own Design Logo of Engine (This count?)
 * IDK
 
 Watch Hilo Engine Gameplay [Here!](https://youtu.be/PcgidMjtGtg)
