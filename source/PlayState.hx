@@ -1116,7 +1116,7 @@ class PlayState extends MusicBeatState
 		}
 		//add(scoreTxt);
 
-		botplayTxt = new FlxText(400, timeBarBG.y + 55, FlxG.width - 800, "[NEVER GINNA GIVE YOU UP]\n[NEVER LETS YOU DOWN]\n[NEVER GONNA RUN AROUND]\n[AND DESERT YOU]", 32);
+		botplayTxt = new FlxText(400, timeBarBG.y + 55, FlxG.width - 800, "[NEVER GONNA GIVE YOU UP]\n[NEVER LETS YOU DOWN]\n[NEVER GONNA RUN AROUND]\n[AND DESERT YOU]", 32);
 		botplayTxt.setFormat(Paths.font("vcr.ttf"), 16, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		botplayTxt.scrollFactor.set();
 		botplayTxt.borderSize = 1.25;
