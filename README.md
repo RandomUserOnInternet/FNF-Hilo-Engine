@@ -20,7 +20,7 @@ Feature of Hilo Engine :D
 * Our Own Design Logo of Engine (This count?)
 * IDK
 
-Watch Hilo Engine Gameplay [Here!](https://youtu.be/PcgidMjtGtg)
+Watch Hilo Engine Gameplay on YouTube [Here!](https://youtu.be/PcgidMjtGtg)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 Hehe
 ---------------------------------------------------------------------------------------------------------------------------------------------------
