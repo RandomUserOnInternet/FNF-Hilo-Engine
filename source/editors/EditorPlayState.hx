@@ -1,5 +1,5 @@
 package editors;
-a
+
 import Section.SwagSection;
 import Song.SwagSong;
 import flixel.group.FlxGroup.FlxTypedGroup;
