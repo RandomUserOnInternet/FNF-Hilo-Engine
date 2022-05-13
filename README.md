@@ -18,6 +18,8 @@ Feature of Hilo Engine :D
 * Result Screen like Kade Engine
 * Show "Combo" Picture like FNF Week 8 Leak
 * Hide Background & Hide Character Everything is Black
+* New pausesubState
+* Character selection
 * Our Own Design Logo of Engine (This count?)
 * IDK
 
