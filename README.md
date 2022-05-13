@@ -34,7 +34,7 @@ Hehe
 
 How to build?
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-* As same as Psych Engine Follow this instruction (USE LATEST VERSION OF HAXE!!!) https://github.com/ninjamuffin99/Funkin#build-instructions
+* As same as Psych Engine Follow this instruction **(USE LATEST VERSION OF HAXE!!!)** https://github.com/ninjamuffin99/Funkin#build-instructions
 
 * then install LuaJIT 
  `haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit`
