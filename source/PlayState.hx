@@ -3518,23 +3518,23 @@ class PlayState extends MusicBeatState
 			switch (daRating)
 			{
 			case "shit": // shit
-				score += 50;
+				score += -100;
 				totalNotesHit += 0;
 				shits++;
 			case "bad": // bad
-				score += 100;
+				score += Math.ceil(500 * ((135 - msforscorelol) / 135));
 				totalNotesHit += 0.50;
 				bads++;
 			case "good": // good
-				score += 200;
+				score += Math.ceil(500 * ((135 - msforscorelol) / 135));
 				totalNotesHit += 0.75;
 				goods++;
 			case "sick": // sick
-				score += 350;
+				score += Math.ceil(500 * ((135 - msforscorelol) / 135));
 				totalNotesHit += 1;
 				sicks++;
 			case "epic": //epic
-				score += 500;
+				score += Math.ceil(500 * ((135 - msforscorelol) / 135));
 				totalNotesHit += 1;
 				epics++;
 			}
