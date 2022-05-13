@@ -1,7 +1,7 @@
 # Friday Night Funkin' Hilo Engine :)
 Feature of Hilo Engine :D
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-* Based on Psych Engine 0.5.1 (we add 0.5.2h and more cool feature too! :D)
+**Based on Psych Engine 0.5.1 (we add 0.5.2h and more cool feature too! :D)**
 * Psych Engine Feature
 * New Scoring System Based on millisecond Like 69696 instead of 69420
 * Choosable Accuracy Mode (Hiro mod (???),Apro Engine(osu!mania),Complex (Kade Engine),Vanilla (Psych Engine),Simple (When you hit any note you will get 100%)
