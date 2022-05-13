@@ -3,6 +3,7 @@ Feature of Hilo Engine :D
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 **Based on Psych Engine 0.5.1 (we add 0.5.2h and more cool feature too! :D)**
 * Psych Engine Feature
+* Millisecond popup
 * New Scoring System Based on millisecond Like 69696 instead of 69420
 * Choosable Accuracy Mode (Hiro mod (???),Apro Engine(osu!mania),Complex (Kade Engine),Vanilla (Psych Engine),Simple (When you hit any note you will get 100%)
 * Cool combo color , Epic Rank & Judgement Counter (credit to Andromeda Engine CHECK OUT NOW!!! https://github.com/nebulazorua/andromeda-engine)
