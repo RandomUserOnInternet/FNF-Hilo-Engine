@@ -68,5 +68,5 @@ install this! :) (Technically You can use Latest Version of Visual Studio 2022 o
 
 * MSVC v140 - VS 2015 C++ build tools (v14.00)
 
-If You have any problem direct message me on Discord If I am respond I'm maybe sleep or very busy **Apro716#2153**
+If You have any problem direct message me on Discord If I'm not respond I'm maybe sleep or very busy **Apro716#2153**
 ---------------------------------------------------------------------------------------------------------------------------------------------------
