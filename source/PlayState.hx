@@ -65,7 +65,7 @@ class PlayState extends MusicBeatState
 	public static var STRUM_X_MIDDLESCROLL = -278;
 
 	public static var ratingStuff:Array<Dynamic> = [
-        ['No Singing?', 0.000001], //Fuck You >:(
+        ['No Singing?', 0.000001], //0% :(
         ['You Fucked Up!!! .l.', 0.1], //From 0.001% to 9.99%
         ['Dog Shit!! >:(', 0.2], //From 10% to 19.99%
         ['Ugh! >:/', 0.3], //From 20% to 29.99%
