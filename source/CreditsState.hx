@@ -90,7 +90,7 @@ class CreditsState extends MusicBeatState
 			['apro716',					'apro',				'cool \nmake engine even more better',																	'https://www.youtube.com/watch?v=a3Z7zEc7AXQ',								'66FFFF'],
 			['Soji Rikuta',				'yuu',				'play tester\ncool youtuber lol',										'https://www.youtube.com/channel/UCWzBFdgN59Nnziwpb8hhX8g/featured',		'66FFFF'],
 			[''],
-			/*['STOLEN code FROM ME'],
+			/*['Special Thanks'],
 			['matt-sudo-jpg',			'shadowmario',		'judgement counter',													'https://github.com/ShadowMario/FNF-PsychEngine/discussions/3707',			'389A58'],
 			['andromeda-engine',		'shadowmario',		'highest combo, epic judgement, ms counter idea and osu mania combo',	'https://github.com/nebulazorua/andromeda-engine',							'9999FF'],
 			['jloor engine',			'bb-panzu',			'cool title screen',													'https://github.com/JloorMC/Jloor-Engine-Main',								'389A58'],
