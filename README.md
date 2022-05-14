@@ -31,10 +31,10 @@ Hehe
 
 * Play in Website! **OPTION MENU IS BROKEN**: https://apro716.github.io/FNF-Hilo-Engine-HTML5-Version/
 
-* Download our Beta Build [HERE! at GitHub Action!](https://github.com/APRO716/FNF-vs-Hiro-mod-demo-Hilo-Engine/actions/workflows/main.yml)
-
 * CHECK OUT Andromeda Engine NOW! https://github.com/nebulazorua/andromeda-engine
 
+Download our Beta Build [HERE! at GitHub Action!](https://github.com/APRO716/FNF-vs-Hiro-mod-demo-Hilo-Engine/actions/workflows/main.yml)
+---------------------------------------------------------------------------------------------------------------------------------------------------
 How to build?
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 * As same as Psych Engine Follow this instruction **(USE LATEST VERSION OF HAXE!!!)** https://github.com/ninjamuffin99/Funkin#build-instructions
